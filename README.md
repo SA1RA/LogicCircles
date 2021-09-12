@@ -15,4 +15,4 @@ Clone the repository using the commands below
 `git clone https://github.com/ikarskarn/LogicCircles.git `
 
 ## Step 4
-To ensure that it worked, try opening the project with Unity Hub
+To ensure that it worked, try opening the project with Unity Hub# LogicCircles
